@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... you know what I don´t even know
 - 🌱 I’m currently learning Lua and JS!
-- ⚡ Fun fact: Life is Roblox...
+- ⚡ Fun fact: I love space!
+
+  https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 
